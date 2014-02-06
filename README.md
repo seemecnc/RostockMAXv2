@@ -1,11 +1,32 @@
-# R3 Delta by SeeMeCNC #
+# R3 Delta 3D Printer by SeeMeCNC #
 
-### A hybrid design between the Rostock MAX build volume and Orion delta shape and overall design layout. ###
+### A hybrid design between the Rostock MAX build volume and Orion delta shape and overall design. ###
 
-### Main features are a larger build volume than Orion yet easier to assemble than the Rostock MAX ###
+### Larger build volume than Orion Delta (similar to Rostock MAX) but will be offered as a fully assembled as well as kit form ###
 
-#### Build volume is appx. 11" diameter by 16" tall. 
-####
+#### Build volume is appx. 11" diameter by 16" tall. ####
+
+
+Specs:
+
+Overall machine size - 20" diameter by 40" tall (including spool mounted on top)
+
+Power Supply - 450w ATX PSU (12v 20+amps)
+
+Heated Bed - Onyx (same as Rostock MAX)
+
+Electronics - RAMBo by UltiMachine
+
+Filament - 1.75mm ABS/PLA/HIPS/Taulman Nylon/T-Glase/other 
+Anything withe less than 240c printing temps
+
+HotEnd - SeeMeCNC 1.75mm bowden 
+
+Extruder - EZStruder set up as bowden drive
+
+Human/Machine interface - LCD control with onboard SD card
+
+Frame material - HP Melamine laminate
 
 
 
