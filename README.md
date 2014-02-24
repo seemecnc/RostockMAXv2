@@ -1,10 +1,10 @@
-# R3 Delta 3D Printer by SeeMeCNC #
+# Rostock MAX v2 3D Printer by SeeMeCNC #
 
 ### A hybrid design between the Rostock MAX build volume and Orion delta shape and overall design. ###
 
-### Larger build volume than Orion Delta (similar to Rostock MAX) but will be offered as a fully assembled as well as kit form ###
+### Larger build volume than Orion Delta (similar to Rostock MAX) but much faster assembly and stiffer frame###
 
-#### Build volume is appx. 11" diameter by 16" tall. ####
+#### Build volume is appx. 11" diameter by 14+" tall. ####
 
 
 Specs:
