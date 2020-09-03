@@ -6,6 +6,8 @@
 
 #### Build volume is appx. 11" diameter by 14+" tall. ####
 
+# Visit seemecnc.com for documentation under the menu tab SUPPORT > ARCHIVE
+
 
 Specs:
 
